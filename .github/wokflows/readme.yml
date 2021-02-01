@@ -23,3 +23,5 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_animated: yes
           config_timezone: Europe/Paris
+          plugin_languages: yes
+          plugin_languages_colors: github
