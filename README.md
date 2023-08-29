@@ -12,4 +12,4 @@ You can find me elsewhere:
 - [Twitter](https://twitter.com/titouanmathis) 
 - [Mastodon](https://mast.eu.org/@titouanmathis)
 - [Linkedin](https://www.linkedin.com/in/titouanmathis/)
-- [studiometa.fr](https://www.studiometa.fr) ]
+- [studiometa.fr](https://www.studiometa.fr)
